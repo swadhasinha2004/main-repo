@@ -1,2 +1,2 @@
 hello world! 
-i m leraning git
+I'm leraning git
